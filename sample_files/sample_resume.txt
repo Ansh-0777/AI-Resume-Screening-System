@@ -1,0 +1,22 @@
+Aarav Mehta
+aarav.mehta@email.com
++91 98765 43210
+
+Summary
+Software developer with a strong foundation in Python and data-driven
+application development.
+
+Education
+B.Tech in Computer Science, Gujarat Technological University, 2024
+
+Experience
+Software Developer Intern, TechNova Solutions (2023-2024)
+Built internal tools using Python and SQL, worked with Pandas for data
+cleaning, and contributed to a small Machine Learning project for
+customer churn prediction using Scikit-learn.
+
+Skills
+Python, SQL, Pandas, NumPy, Machine Learning, Git, Power BI
+
+Certifications
+Python for Data Science, Coursera

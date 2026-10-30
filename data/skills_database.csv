@@ -1,0 +1,76 @@
+skill,category
+Python,Programming Language
+Java,Programming Language
+C++,Programming Language
+C,Programming Language
+JavaScript,Programming Language
+TypeScript,Programming Language
+R,Programming Language
+SQL,Programming Language
+Go,Programming Language
+Scala,Programming Language
+MATLAB,Programming Language
+HTML,Web
+CSS,Web
+React,Web
+Node.js,Web
+Django,Web
+Flask,Web
+Streamlit,Web
+FastAPI,Web
+Machine Learning,AI/ML
+Deep Learning,AI/ML
+Natural Language Processing,AI/ML
+Computer Vision,AI/ML
+TensorFlow,AI/ML
+PyTorch,AI/ML
+Keras,AI/ML
+Scikit-learn,AI/ML
+spaCy,AI/ML
+NLTK,AI/ML
+OpenCV,AI/ML
+Hugging Face,AI/ML
+Sentence Transformers,AI/ML
+XGBoost,AI/ML
+LightGBM,AI/ML
+Pandas,Data
+NumPy,Data
+Data Analysis,Data
+Data Visualization,Data
+Matplotlib,Data
+Plotly,Data
+Seaborn,Data
+Power BI,Data
+Tableau,Data
+Excel,Data
+ETL,Data
+Data Engineering,Data
+Big Data,Data
+Hadoop,Data
+Spark,Data
+Docker,DevOps
+Kubernetes,DevOps
+Git,DevOps
+GitHub,DevOps
+CI/CD,DevOps
+Jenkins,DevOps
+Linux,DevOps
+AWS,Cloud
+Azure,Cloud
+GCP,Cloud
+Cloud Computing,Cloud
+MySQL,Database
+PostgreSQL,Database
+MongoDB,Database
+SQLite,Database
+Redis,Database
+REST API,Backend
+Microservices,Backend
+Agile,Methodology
+Scrum,Methodology
+Project Management,Methodology
+Communication,Soft Skill
+Leadership,Soft Skill
+Teamwork,Soft Skill
+Problem Solving,Soft Skill
+Critical Thinking,Soft Skill

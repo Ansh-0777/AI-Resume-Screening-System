@@ -1,0 +1,18 @@
+Job Title: Machine Learning Engineer
+
+We are looking for a Machine Learning Engineer to join our data team.
+
+Requirements:
+- Strong proficiency in Python and SQL
+- Experience with TensorFlow or PyTorch for deep learning
+- Solid understanding of Machine Learning and Deep Learning fundamentals
+- Experience with Pandas and NumPy for data processing
+- Familiarity with Git and GitHub for version control
+- Experience deploying models using Docker
+- Exposure to AWS is a plus
+
+Responsibilities:
+- Build and deploy machine learning models into production
+- Collaborate with data engineers on ETL pipelines
+- Write clean, well-tested Python code
+- Participate in Agile ceremonies and code reviews
